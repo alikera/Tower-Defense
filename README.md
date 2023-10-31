@@ -1,6 +1,6 @@
 # Tower Defense Game
 
-Welcome to **Tower Defense Master**, an engaging Unity game where strategy meets action! Inspired by Brackeys' insightful YouTube tutorials, this game puts you in command, defending your realm against relentless waves of enemies. Craft your defenses, plan your tactics, and emerge as the ultimate tower defense strategist.
+Welcome to **Tower Defense**, an engaging Unity game where strategy meets action! Inspired by Brackeys' insightful YouTube tutorials, this game puts you in command, defending your realm against relentless waves of enemies. Craft your defenses, plan your tactics, and emerge as the ultimate tower defense strategist.
 
 ## Gameplay
 
